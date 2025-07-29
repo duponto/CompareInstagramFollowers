@@ -25,6 +25,6 @@ You can download your personal information from the Meta Accounts Center.
    - **Format**: JSON  
    - **Media Quality**: Low
 
-8. Confirm and start the download.
+8. Confirm and wait for the data.
 
-And there you go — your data will be prepared for download.
+And there you go.
