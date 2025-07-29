@@ -1,9 +1,30 @@
-# From Meta Accounts Center you can download you personal information.
-# From: Accounts Center > Your information and permissions > Download your information.
-# Then click Download or transfer information > Select your account > Choose "Some of your Information"
-# And find Connections > Followers and Following > Select and Next.
-# Select whichway you want the copies and the form should be set like this:
-# Date Range : All Time
-# Format: JSON
-# Media quality: Low
-# And there you go.
+# How to Download Your Instagram Followers and Following Data
+
+You can download your personal information from the Meta Accounts Center.
+
+### Steps:
+
+1. Go to **Accounts Center**  
+   Navigate to:  
+   `Accounts Center > Your information and permissions > Download your information`
+
+2. Click on **Download or transfer information**
+
+3. Select your account
+
+4. Choose **"Some of your Information"**
+
+5. Find and select:
+   - **Connections**
+   - Then: **Followers and Following**
+
+6. Click **Next**
+
+7. Configure the download form as follows:
+   - **Date Range**: All Time  
+   - **Format**: JSON  
+   - **Media Quality**: Low
+
+8. Confirm and start the download.
+
+And there you go — your data will be prepared for download.
